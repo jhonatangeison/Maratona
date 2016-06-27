@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="0dp"
+    android:layout_marginLeft="0dp"
+    android:layout_marginRight="0dp"
+    >
+
+ <!--  <GridLayout
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:columnCount="9"
+       android:scrollIndicators="top|bottom|none"
+       >
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvNome"
+            android:layout_row="0"
+            android:text="valor"
+            android:layout_column="1"
+       />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvPeso"
+            android:layout_row="0"
+            android:text="valor"
+            android:layout_column="2"
+            android:paddingLeft="8dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvIdade"
+            android:layout_row="0"
+            android:layout_column="3"
+            android:text="valor"
+            android:paddingLeft="8dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvIMC"
+            android:layout_row="0"
+            android:text="valor"
+            android:layout_column="4"
+            android:paddingLeft="8dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvModal"
+            android:layout_row="0"
+            android:text="valor"
+            android:layout_column="5"
+            android:paddingLeft="8dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvDias"
+            android:layout_row="0"
+            android:layout_column="6"
+            android:text="valor"
+            android:paddingLeft="8dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvValor"
+            android:layout_row="0"
+            android:layout_column="7"
+            android:text="valor"
+            android:paddingLeft="8dp"/>
+    </GridLayout>
+    -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvNome"
+
+        />
+
+</LinearLayout>
